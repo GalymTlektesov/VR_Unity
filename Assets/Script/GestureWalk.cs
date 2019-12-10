@@ -17,7 +17,7 @@ public class GestureWalk : MonoBehaviour
     {
         if (gesture.isMovingDown)
         {
-            lookWalk.isWalking = !lookWalk.isWalking;
+            lookWalk.walking = !lookWalk.walking;
         }
     }
 }

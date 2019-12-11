@@ -179,6 +179,7 @@
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\Internal\GvrCursorHelper.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\Internal\SuppressMemoryAllocationErrorAttribute.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
+     <Compile Include="Assets\Planet Earth Free\SpinFree.cs" />
      <Compile Include="Assets\Script\BallGame.cs" />
      <Compile Include="Assets\Script\BallsFromHeaven.cs" />
      <Compile Include="Assets\Script\BodyWalk.cs" />
@@ -188,10 +189,12 @@
      <Compile Include="Assets\Script\CursorPositioner.cs" />
      <Compile Include="Assets\Script\DestroySelf.cs" />
      <Compile Include="Assets\Script\DestroyTimeout.cs" />
+     <Compile Include="Assets\Script\Elevate.cs" />
      <Compile Include="Assets\Script\FlippinDashboard.cs" />
      <Compile Include="Assets\Script\GestureWalk.cs" />
      <Compile Include="Assets\Script\HeadGesture.cs" />
      <Compile Include="Assets\Script\HeadLookWalk.cs" />
+     <Compile Include="Assets\Script\JumpGesture.cs" />
      <Compile Include="Assets\Script\KillTarget.cs" />
      <Compile Include="Assets\Script\LookMeTo.cs" />
      <Compile Include="Assets\Script\RandomPosition.cs" />
@@ -211,6 +214,7 @@
      <None Include="Assets\GoogleVR\Shaders\GvrReticleShader.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrUIOverlay.shader" />
      <None Include="Assets\GoogleVR\Plugins\Android\proguard-gvr.txt" />
+     <None Include="Assets\Wispy Sky\ReadMe.txt" />
      <None Include="Assets\GoogleVR\Plugins\Android\AndroidManifest-Cardboard.xml" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/user/Desktop/Admin/VR_is_Awesome/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
